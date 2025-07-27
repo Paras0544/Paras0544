@@ -10,7 +10,7 @@ I'm currently working on real-world, scalable full stack and data science projec
 Focusing on solving real problems while building tools that can actually be used.
 
 Learning and improving in the following areas:
-- Data Structures and Algorithms (Striver Sheet, Leetcode)
+- Data Structures and Algorithms 
 - Full Stack Development (MERN stack, APIs, deployment)
 - Data Science (Python, Pandas, ML models, visualizations)
 - Deployment and DevOps (Vercel, Netlify, Docker, Git)
