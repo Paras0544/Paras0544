@@ -23,42 +23,41 @@ You can reach me at parasmiglani15@gmail.com.
 ### Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/paras-miglani-b253561a1/)  
-[Instagram](https://www.instagram.com/paarrras/)
 
 ---
 
 ### Tech Stack and Tools I Use
 
-Languages and frameworks:
-- C++, Python, JavaScript, HTML/CSS
-- React.js, Node.js, Express.js
-- MongoDB, MySQL, PostgreSQL, Firebase
+🛠 Tech Stack & Tools
+💻 Programming Languages & Web
 
-Tools and platforms:
-- Git, GitHub, Docker, Kubernetes
-- Linux, Figma, Tailwind CSS
+C++, Python, JavaScript, HTML, CSS
 
----
+React.js, Node.js, Express.js
 
-### GitHub Trophies
+🗄 Databases & Backend
 
-[![Paras's Trophies](https://github-profile-trophy.vercel.app/?username=Paras0544&theme=gruvbox&column=7)](https://github.com/Paras0544)
+MongoDB
 
----
+MySQL, PostgreSQL
 
-### GitHub Stats
+Firebase
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Paras0544&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras0544&layout=compact&theme=github_dark)
+📊 Data Analysis & Analytics
 
----
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-### Pinned Projects
+SQL (MySQL, PostgreSQL)
 
-[Career Blueprint Bot](https://github.com/Paras0544/career-blueprint-bot)
+Jupyter Notebook
 
----
+Power BI
 
-### Personal Note
+Microsoft Excel (Data Cleaning, Pivot Tables, Dashboards)
 
-Head down and keep building.
+Kaggle (Datasets, Notebooks, Exploratory Analysis)
+
+⚙ Tools & Platforms
+
+Git, GitHub
+
