@@ -12,7 +12,7 @@ Focusing on solving real problems while building tools that can actually be used
 Learning and improving in the following areas:
 - Data Structures and Algorithms 
 - Full Stack Development (MERN stack, APIs, deployment)
-- Data Science (Python, Pandas, ML models, visualizations)
+- Computer Networks (Networking fundamentals, wireless communication)
 - Deployment and DevOps (Vercel, Netlify, Docker, Git)
 
 Open to collaborating on projects, internships, or anything interesting in tech.  
